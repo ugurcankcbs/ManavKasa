@@ -1,5 +1,3 @@
-# ManavKasa
-
 import java.util.Scanner;
 
 public class Manav {
